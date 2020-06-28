@@ -68,6 +68,7 @@ p:hover{
     transition: .5s;
     color: whitesmoke;
     background-color: coral;
+    cursor: pointer;
 }
 #equal{
     height: 140px;
